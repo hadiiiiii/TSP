@@ -14,7 +14,7 @@ var ServerID = "520335219258294273";
 var ChannelID = "520335460300619779";//
 
 var ChannelIID = "520335487345491981";//k???? ??? ???? ??????
-var ChannelID2 = "441701352985591818";
+var ChannelID2 = "520335460300619779";
  
 
 //???????
@@ -61,7 +61,7 @@ message.channel.send(args.join("  "))
 
 
 client.on('ready', () => {
-  client.channels.find(ch => ch.id === "472422169637552139" && ch.type === 'voice').join();//
+  client.channels.find(ch => ch.id === "520335219258294278" && ch.type === 'voice').join();//
 });//By Rie
 
 
@@ -119,4 +119,4 @@ client.on('ready', () => console.log('By Rie (L)'));//
 
 
 
-client.login("process.env.BOT_TOKEN")
+client.login(process.env.BOT_TOKEN)
