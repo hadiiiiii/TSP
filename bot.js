@@ -10,11 +10,11 @@ const pms = require('pretty-ms');
 
 
 
-var ServerID = "520335219258294273"; 
-var ChannelID = "520335460300619779";//
+var ServerID = "715627496560918640"; 
+var ChannelID = "715627497072361527";//
 
-var ChannelIID = "520335487345491981";//k???? ??? ???? ??????
-var ChannelID2 = "520335460300619779";
+var ChannelIID = "715627781291245669";//k???? ??? ???? ??????
+var ChannelID2 = "715627805781786724";
  
 
 //???????
